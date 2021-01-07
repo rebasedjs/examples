@@ -1,6 +1,7 @@
 const { install, fetch } = require('@rebased/core');
 const { map } = require('rxjs/operators');
 
+// optional setup
 install({
   silent: true, // disable logs
   driver: 'firestore', // default driver
