@@ -1,5 +1,5 @@
 {
-  "name": "rebased-store",
+  "name": "rebased-cache",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +12,8 @@
   "author": "Stewan Silva",
   "license": "MIT",
   "dependencies": {
-    "@rebased/core": "0.0.21",
-    "@rebased/state": "0.0.21"
+    "@rebased/cache": "0.0.22",
+    "@rebased/core": "0.0.22"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
